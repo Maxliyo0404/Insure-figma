@@ -42,8 +42,8 @@ hr{
 }
 .footer-links{
      font-weight: 700;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 100%;
-    letter-spacing: 1.5px;
+    margin-bottom: 1;
     color: #837D88;
 }
