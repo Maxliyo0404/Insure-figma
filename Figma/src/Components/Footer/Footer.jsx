@@ -11,12 +11,16 @@ function Footer (){
           <div className="footer">
             <div className="container">
                 <div className="footer-wrapper">
+                    <div className="footer-titles">
+
+    
                 <div className="icons">
                     <div className="icone"><ImFacebook2 /></div>
                     <div className="icone"><FiTwitter /></div>
                     <div className="icone"><ImPinterest2 /></div>
                     <div className="icone"><LiaYoutube /></div>
                 </div>
+            </div>
                 <hr />
                 <ul className="footer-list">
                     <li className="footer-item">
