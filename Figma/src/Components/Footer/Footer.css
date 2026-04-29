@@ -22,3 +22,7 @@
         transform: scale(1.2);
     }
 }
+hr{
+    max-width: 100%;
+    background: #FAFAFA;
+}
