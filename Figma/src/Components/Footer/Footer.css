@@ -48,7 +48,7 @@ hr{
     margin-bottom: 10px;
     color: #837D88;
     &:hover{
-        
+        color: aqua;
     }
 }
 .footer-link{
