@@ -66,6 +66,9 @@ hr{
   }
 }
 @media(max-width: 500px){
+    .footer-rasm{
+        
+    }
   .footer-list{
      grid-template-columns: repeat(2, 1fr);
   }
