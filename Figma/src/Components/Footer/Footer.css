@@ -62,7 +62,6 @@ hr{
 }
 @media(max-width: 660px){
   .footer-list{
-    display: flex;
-    flex-wrap: wrap;
+     grid-template-columns: repeat(4, 1fr);
   }
 }
