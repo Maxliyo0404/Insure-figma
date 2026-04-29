@@ -1,11 +1,12 @@
 import "./Footer.css";
+import footer_rasm from "./image/footer_rasm.svg";
 import { IoLocationSharp } from "react-icons/io5";
 import { IoCalendarOutline } from "react-icons/io5";
 import { FiTwitter } from "react-icons/fi";
 import { ImPinterest2 } from "react-icons/im";
 import { ImFacebook2 } from "react-icons/im";
 import { LiaYoutube } from "react-icons/lia";
-import footer_rasm from "./image/footer.svg";
+
 function Footer (){
     return (
         <>
@@ -13,7 +14,7 @@ function Footer (){
             <div className="container">
                 <div className="footer-wrapper">
                     <div className="footer-titles">
-                  <img src={footer_rasm} alt="rasm" />
+                  <img className="footer-rasm" src={footer_rasm} alt="rasm" />
     
                 <div className="icons">
                     <div className="icone"><ImFacebook2 /></div>
