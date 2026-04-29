@@ -1,3 +1,4 @@
+
 .header-container{
      display: flex;
     align-items: center;
@@ -85,7 +86,8 @@
             display: block;
     
      }
-     .header-logo{
+     .header-btn{
         width: 100px;
+        height: 38px;
      }
 }
