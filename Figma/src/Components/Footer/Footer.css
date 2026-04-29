@@ -8,6 +8,7 @@
 }
 .footer-rasm{
     display: flex;
+    align-items: center;
     max-width: 100%;
 }
 .icons{
