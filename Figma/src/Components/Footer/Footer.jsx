@@ -5,6 +5,7 @@ import { FiTwitter } from "react-icons/fi";
 import { ImPinterest2 } from "react-icons/im";
 import { ImFacebook2 } from "react-icons/im";
 import { LiaYoutube } from "react-icons/lia";
+import
 function Footer (){
     return (
         <>
@@ -12,7 +13,7 @@ function Footer (){
             <div className="container">
                 <div className="footer-wrapper">
                     <div className="footer-titles">
-                  <h2 className="footer-title">INSURE</h2>
+                  <img src="" alt="" />
     
                 <div className="icons">
                     <div className="icone"><ImFacebook2 /></div>
