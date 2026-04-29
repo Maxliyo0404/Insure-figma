@@ -24,5 +24,7 @@
 }
 hr{
     max-width: 100%;
+    height: 1px;
     background: #FAFAFA;
+    margin-bottom: 40px;
 }
