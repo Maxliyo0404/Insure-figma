@@ -12,7 +12,7 @@ function Footer (){
             <div className="container">
                 <div className="footer-wrapper">
                     <div className="footer-titles">
-
+                  <h2 className="footer-title"></h2>
     
                 <div className="icons">
                     <div className="icone"><ImFacebook2 /></div>
