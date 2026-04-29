@@ -5,7 +5,7 @@ import { FiTwitter } from "react-icons/fi";
 import { ImPinterest2 } from "react-icons/im";
 import { ImFacebook2 } from "react-icons/im";
 import { LiaYoutube } from "react-icons/lia";
-import
+import footer_rasm from "./image/footer.svg";
 function Footer (){
     return (
         <>
