@@ -2,7 +2,7 @@
     padding: 60px 0;
 }
 .footer-titles{
-    
+    display: flex;
 }
 .icons{
     display: flex;
