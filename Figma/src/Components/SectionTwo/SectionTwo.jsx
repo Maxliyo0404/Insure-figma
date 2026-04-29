@@ -7,7 +7,7 @@ function SectionTwo (){
             <div className="container">
                 <div className="sectionTwo-wrapper">
                     <div className="two-left">
-                        <h2 className="two-name">Find out more?about how we work</h2>
+                        <h2 className="two-name">Find out more  about how we work</h2>
                     </div>
                      <div className="two-right">
                         <img className="two-rasm" src={two_line} alt="rasm" />
