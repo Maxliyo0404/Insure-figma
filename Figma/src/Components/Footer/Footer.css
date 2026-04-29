@@ -40,3 +40,10 @@ hr{
     align-items: stretch;
     flex-direction: column;
 }
+.footer-links{
+     font-weight: 700;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 1.5px;
+    color: #837D88;
+}
