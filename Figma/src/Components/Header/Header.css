@@ -85,4 +85,7 @@
             display: block;
     
      }
+     .header-logo{
+        width: 100px;
+     }
 }
