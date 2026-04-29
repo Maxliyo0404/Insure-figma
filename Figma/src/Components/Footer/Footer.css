@@ -57,6 +57,6 @@ hr{
     line-height: 100%;
     color: #2D2641;
     &:hover{
-        color: aqua;
+        color:rgb(7, 174, 240);
     }
 }
