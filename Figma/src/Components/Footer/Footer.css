@@ -7,10 +7,13 @@
     justify-content: space-between;
 }
 .footer-rasm{
-    
+    max-width: 100%;
 }
 .icons{
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 12px;
+}
+.icone{
+    
 }
