@@ -32,4 +32,11 @@ hr{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
+    
+}
+.footer-item{
+    max-width: 100%;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
 }
